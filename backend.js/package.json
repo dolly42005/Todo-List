@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Dependencies on backend",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "tback.js",
+  "scripts": {
+    "test": "node tback.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
